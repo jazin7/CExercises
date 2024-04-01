@@ -1,0 +1,3 @@
+C:/Users/Yassine/Desktop/CExercises/Taschenrechner/cmake-build-debug/CMakeFiles/Taschenrechner.dir
+C:/Users/Yassine/Desktop/CExercises/Taschenrechner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yassine/Desktop/CExercises/Taschenrechner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
